@@ -12,3 +12,5 @@ public class ContadorCaracteres {
         return palabras.stream().mapToInt(String::length).sum();
     }
 }
+
+
