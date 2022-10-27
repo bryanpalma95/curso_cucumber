@@ -14,3 +14,12 @@ Feature: Contar Caracteres
       | mama |
       | papa |
     Then deberia ver que el numero de caracteres es 8
+
+
+
+
+
+
+
+
+
